@@ -28,7 +28,6 @@ This project aims to classify the severity level of cancer in patients using var
 
 Certainly! Here is the accuracy report formatted for a GitHub README:
 
----
 
 ## Accuracy Report
 
@@ -40,7 +39,6 @@ Certainly! Here is the accuracy report formatted for a GitHub README:
 | SVM                     | 0.69           | 0.98       |
 | DecisionTreeClassifier  | 9.99           | 1.0        |
 
----
 
 ## Requirements
 
